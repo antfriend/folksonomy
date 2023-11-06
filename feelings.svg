@@ -1,0 +1,46 @@
+
+<svg height="400" width="400" fill="antiquewhite">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#000" />
+    </marker>
+  </defs>
+  <g transform="translate(200,200)">
+    <circle cx="0" cy="0" r="40" fill="#FFC300" stroke="#000" />
+    <circle cx="100" cy="0" r="40" fill="#FF5733" stroke="#000" />
+    <circle cx="0" cy="100" r="40" fill="#C70039" stroke="#000" />
+    <circle cx="-100" cy="0" r="40" fill="#900C3F" stroke="#000" />
+    <circle cx="0" cy="-100" r="40" fill="#581845" stroke="#000" />
+    <circle cx="70" cy="70" r="20" fill="#DAF7A6" stroke="#000" />
+    <circle cx="-70" cy="-70" r="20" fill="#FFC300" stroke="#000" />
+    <text x="0" y="0" font-size="20" text-anchor="middle" dominant-baseline="central">Happiness</text>
+    <text x="100" y="0" font-size="20" text-anchor="middle" dominant-baseline="central">Sadness</text>
+    <text x="0" y="100" font-size="20" text-anchor="middle" dominant-baseline="central">Fear</text>
+    <text x="-100" y="0" font-size="20" text-anchor="middle" dominant-baseline="central">Anger</text>
+    <text x="0" y="-100" font-size="20" text-anchor="middle" dominant-baseline="central">Surprise</text>
+    <text x="70" y="70" font-size="20" text-anchor="middle" dominant-baseline="central">Disgust</text>
+    <text x="-70" y="-70" font-size="20" text-anchor="middle" dominant-baseline="central">Trust</text>
+    <text x="0" y="50" font-size="20" text-anchor="middle" dominant-baseline="central">Contempt</text>
+    <line x1="0" y1="0" x2="100" y2="0" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="0" y2="100" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="-100" y2="0" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="0" y2="-100" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="70" y2="70" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="-70" y2="-70" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <line x1="0" y1="0" x2="0" y2="50" stroke="#000" stroke-width="5" 
+    marker-end="url(#arrow)" />
+    <text x="50" y="-10" font-size="15" text-anchor="middle" dominant-baseline="central">pleasure</text>
+    <text x="10" y="50" font-size="15" text-anchor="middle" dominant-baseline="central">terror</text>
+    <text x="-50" y="-10" font-size="15" text-anchor="middle" dominant-baseline="central">annoyance</text>
+    <text x="10" y="-50" font-size="15" text-anchor="middle" dominant-baseline="central">shock</text>
+    <text x="35" y="35" font-size="15" text-anchor="middle" dominant-baseline="central">revulsion</text>
+    <text x="-35" y="-35" font-size="15" text-anchor="middle" dominant-baseline="central">confidence</text>
+    <text x="0" y="25" font-size="15" text-anchor="middle" dominant-baseline="central">scorn</text>
+  </g>
+</svg>

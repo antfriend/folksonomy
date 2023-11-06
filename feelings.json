@@ -1,0 +1,7 @@
+{
+    "Happiness": ["contentment", "pleasure", "contentedness", "satisfaction", "cheerfulness"],
+    "Sadness": ["unhappiness", "sorrow", "dejection", "regret", "depression"],
+    "Fear": ["terror", "fright", "fearfulness", "horror", "alarm"],
+    "Anger": ["annoyance", "vexation", "exasperation", "crossness", "irritation"],
+    "Surprise": ["shock", "thunderbolt", "bombshell", "revelation", "eye-opener"],
+    "Disgust": ["revulsion", "repugnance", "aversion", "distaste", "abhorrence"],

@@ -1,0 +1,53 @@
+{
+    "to_be": {
+        "simple_present": ["am", "are", "is"],
+        "simple_past": ["was", "were"],
+        "past_participle": ["been"]
+    },
+    "to_have": {
+        "simple_present": ["have", "has"],
+        "simple_past": ["had"],
+        "past_participle": ["had"]
+    },
+    "to_do": {
+        "simple_present": ["do", "does"],
+        "simple_past": ["did"],
+        "past_participle": ["done"]
+    },
+    "to_say": {
+        "simple_present": ["say", "says"],
+        "simple_past": ["said"],
+        "past_participle": ["said"]
+    },
+    "to_go": {
+        "simple_present": ["go", "goes"],
+        "simple_past": ["went"],
+        "past_participle": ["gone"]
+    },
+    "to_get": {
+        "simple_present": ["get", "gets"],
+        "simple_past": ["got"],
+        "past_participle": ["gotten"]
+    },
+    "to_make": {
+        "simple_present": ["make", "makes"],
+        "simple_past": ["made"],
+        "past_participle": ["made"]
+    },
+    "to_know": {
+        "simple_present": ["know", "knows"],
+        "simple_past": ["knew"],
+        "past_participle": ["known"]
+    },
+    "to_think": {
+        "simple_present": ["think", "thinks"],
+        "simple_past": ["thought"],
+        "past_participle": ["thought"]
+    },
+    "to_take": {
+        "simple_present": ["take", "takes"],
+        "simple_past": ["took"],
+        "past_participle": ["taken"]
+    }
+   
+}
