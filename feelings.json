@@ -5,3 +5,7 @@
     "Anger": ["annoyance", "vexation", "exasperation", "crossness", "irritation"],
     "Surprise": ["shock", "thunderbolt", "bombshell", "revelation", "eye-opener"],
     "Disgust": ["revulsion", "repugnance", "aversion", "distaste", "abhorrence"],
+    "Trust": ["confidence", "belief", "faith", "sureness", "certainty"],
+    "Contempt": ["scorn", "disdain", "disrespect", "deprecation", "disparagement"]
+  }
+  
